@@ -18,3 +18,5 @@ And remember, when we ask people where do they come from, we say __Iš kur tu e
 ## Kas/Ko
 
 When we ask "what," we use __"kas,"__ and the genitive of it is __"ko."__
+
+[[Location#Prie + Gen.]]
