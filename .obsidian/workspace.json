@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "4497ab4ed00fdc87",
+    "type": "split",
+    "children": [
+      {
+        "id": "77d2a95dea4a89cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40325e3a1e678952",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lietuvių Kalba/Imperative.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a6753bce36893088",
+    "type": "split",
+    "children": [
+      {
+        "id": "405c68b769f85be7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f58af818dfbd63a9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "af6ea5ba545f4b5b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ac5db2e73710866f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "d9507588b0e33177",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f80b9132a4292aaa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Lietuvių Kalba/Imperative.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "410a9bbc53918d06",
+    "type": "split",
+    "children": [
+      {
+        "id": "93ca8c0bfb077a42",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cfd50256cc4491fa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Lietuvių Kalba/Imperative.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "02bde9d6302add7b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "ec2d1a60c72343a6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Lietuvių Kalba/Imperative.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "10ecc7ab7335d572",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b89629ede59fc06e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "7ed1f30b0c7cbffd",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "1da77569440a51d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89a8d5433f994041",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 270.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:查看關聯圖": false,
+      "switcher:開啟快速切換": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false
+    }
+  },
+  "active": "f58af818dfbd63a9",
+  "lastOpenFiles": [
+    "Lietuvių Kalba/Time and Frequency.md",
+    "Obsidian/README.md",
+    "Obsidian",
+    "Lietuvių Kalba/Location.md",
+    "Lietuvių Kalba/Locative.md",
+    "Lietuvių Kalba/Genitive.md",
+    "Lietuvių Kalba/Imperative.md",
+    "Lietuvių Kalba/Vocab (L2).md",
+    "Lietuvių Kalba/Nationality.md",
+    "Lietuvių Kalba/Greetings in Conversations.md",
+    "Lietuvių Kalba/Directions.md",
+    "Lietuvių Kalba/Accusative.md",
+    "Lietuvių Kalba/Cardinal Numbers 1–9.md",
+    "Lietuvių Kalba",
+    "2023-W52.md",
+    "Lietuviskai.md",
+    "未命名 1.md",
+    "asdasd.md",
+    "fgdga.md",
+    "2023-12-30.md",
+    "Home.md",
+    "Koks jūsų Vardas?.md",
+    "Italiano/The 5 W (Le 5 W).md",
+    "Italiano/Personal Pronouns Objective & Subjective (Pronomi Personami Oggetto e Soggetto).md",
+    "Italiano/Months (I mesi).md",
+    "Italiano/Definite Articles (Articoli determinativi).md",
+    "Italiano/Common Nouns & Phrases.md",
+    "Italiano/Numbers (Numeri in Italiano).md",
+    "Others/Capture-2023-06-06-115136.png",
+    "C",
+    "Others",
+    "Others/rn_image_picker_lib_temp_398842f5-8916-461f-8422-e8a453d83506.jpg",
+    "Others/Pasted image 20230606115304.png",
+    "Others/PXL_20230606_034516327.jpg",
+    "Others/PXL_20230606_034638617.jpg",
+    "Others/rn_image_picker_lib_temp_5e8269b5-92b6-4410-8cc9-a65c31a9cce4.jpg",
+    "rn_image_picker_lib_temp_5e8269b5-92b6-4410-8cc9-a65c31a9cce4 1.jpg",
+    "未命名 1.canvas",
+    "未命名.canvas",
+    "Italiano"
+  ]
+}

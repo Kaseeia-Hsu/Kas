@@ -1,0 +1,10 @@
+{
+  "accentColor": "",
+  "cssTheme": "Serenity",
+  "theme": "system",
+  "interfaceFontFamily": "",
+  "translucency": false,
+  "enabledCssSnippets": [
+    "graph"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "settings": {
+    "migrated": 3,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "CoGlobe",
+      "🇱🇹",
+      "CoMainComponent",
+      "LiWrench",
+      "LiTrainFrontTunnel"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true
+  },
+  "Lietuvių Kalba/Nationality.md": "CoMainComponent",
+  "Lietuvių Kalba/Genitive.md": "CoMainComponent",
+  "Lietuvių Kalba/Cardinal Numbers 1–9.md": "CoMainComponent",
+  "Lietuvių Kalba/Greetings in Conversations.md": "CoMainComponent",
+  "Lietuvių Kalba/Accusative.md": "CoMainComponent",
+  "Lietuvių Kalba/Directions.md": "CoMainComponent",
+  "Lietuvių Kalba/Vocab (L2).md": "CoMainComponent",
+  "Lietuvių Kalba/Locative.md": "CoMainComponent",
+  "Lietuvių Kalba/Location.md": "CoMainComponent",
+  "Lietuvių Kalba/Time and Frequency.md": "CoMainComponent",
+  "Lietuvių Kalba/Imperative.md": "CoMainComponent"
+}

@@ -1,0 +1,14 @@
+
+.nav-folder-title,
+.nav-folder-title-content {
+ font-weight: 600 !important;
+ line-height: 1.8;}
+.table-view-table tr {
+ border-bottom: 1px solid;
+ border-color: #d6d6d6;
+}
+.canvas-node:not(.is-editing, .is-focused, .is-themed) .canvas-node-container {
+background: transparent;
+box-shadow: none;
+border-color: transparent;
+}
