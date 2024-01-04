@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lietuvių Kalba/Genitive.md",
+                "file": "Écrits/20240104 I Endure Life.md",
                 "mode": "source",
                 "source": false
               }
@@ -76,9 +76,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Lietuvių Kalba/Genitive.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -101,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lietuvių Kalba/Genitive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +123,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lietuvių Kalba/Genitive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,12 +182,14 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "40325e3a1e678952",
+  "active": "7ed1f30b0c7cbffd",
   "lastOpenFiles": [
+    "Écrits/20240104 I Endure Life.md",
+    "Lietuvių Kalba/Genitive.md",
+    "Écrits",
     "Lietuvių Kalba/Accusative.md",
     "Lietuvių Kalba/Cardinal Numbers 1–9.md",
     "Lietuvių Kalba/Directions.md",
-    "Lietuvių Kalba/Genitive.md",
     "Lietuvių Kalba/Locative.md",
     "Lietuvių Kalba/Location.md",
     "Lietuvių Kalba/Imperative.md",
@@ -215,7 +213,6 @@
     "Italiano/Months (I mesi).md",
     "Italiano/Definite Articles (Articoli determinativi).md",
     "Italiano/Common Nouns & Phrases.md",
-    "Italiano/Numbers (Numeri in Italiano).md",
     "Others/Capture-2023-06-06-115136.png",
     "C",
     "Others",

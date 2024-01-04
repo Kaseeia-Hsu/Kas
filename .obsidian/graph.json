@@ -1,12 +1,27 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "tag:#Lithuanian  ",
+      "color": {
+        "a": 1,
+        "rgb": 13834007
+      }
+    },
+    {
+      "query": "tag:#ideas  ",
+      "color": {
+        "a": 1,
+        "rgb": 3686850
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +32,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.6231256492433684,
+  "scale": 0.5087799620955796,
   "close": true
 }
