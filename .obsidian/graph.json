@@ -6,22 +6,7 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "tag:#Lithuanian  ",
-      "color": {
-        "a": 1,
-        "rgb": 13834007
-      }
-    },
-    {
-      "query": "tag:#ideas  ",
-      "color": {
-        "a": 1,
-        "rgb": 3686850
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,

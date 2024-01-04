@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Écrits/20240104 I Endure Life.md",
+                "file": "Écrits/20240104. I Endure Life..md",
                 "mode": "source",
                 "source": false
               }
@@ -76,7 +76,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Écrits/20240104. I Endure Life..md"
+              }
             }
           }
         ]
@@ -99,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Écrits/20240104. I Endure Life..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Écrits/20240104. I Endure Life..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,9 +186,9 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "7ed1f30b0c7cbffd",
+  "active": "40325e3a1e678952",
   "lastOpenFiles": [
-    "Écrits/20240104 I Endure Life.md",
+    "Écrits/20240104. I Endure Life..md",
     "Lietuvių Kalba/Genitive.md",
     "Écrits",
     "Lietuvių Kalba/Accusative.md",
