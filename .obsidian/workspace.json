@@ -76,9 +76,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Écrits/20240104. I Endure Life..md"
-              }
+              "state": {}
             }
           }
         ]
@@ -101,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Écrits/20240104. I Endure Life..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +123,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Écrits/20240104. I Endure Life..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +182,7 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "40325e3a1e678952",
+  "active": "7ed1f30b0c7cbffd",
   "lastOpenFiles": [
     "Écrits/20240104. I Endure Life..md",
     "Lietuvių Kalba/Genitive.md",
