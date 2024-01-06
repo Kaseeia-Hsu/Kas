@@ -6,6 +6,7 @@ Kada?--is the way to ask "When?" In Lithuanian.
 
 dabar: now
 šiandien: today
+kasdien: everyday
 rytoj: tomorrow
 vakar: yesterday
 poryt: the day after tomorrow

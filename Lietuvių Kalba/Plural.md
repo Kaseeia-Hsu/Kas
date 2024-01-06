@@ -1,0 +1,3 @@
+#Lithuanian #declension 
+
+## Nominative
