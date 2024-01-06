@@ -14,3 +14,10 @@
 0 is "__nulis__" by the way.
 
 ## Accisative
+
+### 1-3
+- Masculine: vieną, du, tris
+- Feminine: vieną, dvi, tris
+### 4-9
+- Masculine: <mark class="hltr-blue">+ios</mark> keturios, penkios...
+- Feminine: <mark class="hltr-red">+ias</mark> keturias, penkias...

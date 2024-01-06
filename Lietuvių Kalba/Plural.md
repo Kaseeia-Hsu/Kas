@@ -28,8 +28,15 @@ Masculine plural accusative is basically changing <mark class="hltr-green">-ų/
 
 ## Example Table
 
+### Masculine
 |  | vaikas | brolis | narys | sūnus | profesorius | asmuo |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| Nom. |  |  |  |  |  |  |
-| Gen. |  |  |  |  |  |  |
-| Acc. |  |  |  |  |  |  |
+| Nom. | vaikai | broliai | nariai | sūnūs | profesoriai | asmenys |
+| Gen. | vaikų | brolių | narių | sūnų | profesorių | asmenų |
+| Acc. | vaikus | brolius | narius | sūnus | profesorius | asmenis |
+### Feminine
+|  | teta | pusseserė | moteris | sesuo/duktė |
+| ---- | ---- | ---- | ---- | ---- |
+| Nom. | tetos | pusseserės | moterys | seserys/dukterys |
+| Gen. | tetų | pusseseruių | moterų | seserų/dukterų |
+| Acc. | tetas | pusseseres | moteris | seseris/dukteris |
