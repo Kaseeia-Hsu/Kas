@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiBook",
       "CoGlobe",
       "🇱🇹",
       "CoMainComponent",
-      "LiWrench",
-      "LiTrainFrontTunnel"
+      "LiWrench"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -36,5 +36,7 @@
   "Lietuvių Kalba/Locative.md": "CoMainComponent",
   "Lietuvių Kalba/Location.md": "CoMainComponent",
   "Lietuvių Kalba/Time and Frequency.md": "CoMainComponent",
-  "Lietuvių Kalba/Imperative.md": "CoMainComponent"
+  "Lietuvių Kalba/Imperative.md": "CoMainComponent",
+  "Écrits/20240104. (II) ...O L'amnistia?.md": "LiBook",
+  "Écrits/20240104. (I) I Endure Life..md": "LiBook"
 }
