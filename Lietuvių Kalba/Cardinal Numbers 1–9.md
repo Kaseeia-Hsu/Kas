@@ -12,3 +12,5 @@
 | 8 | aštuoni/aštuonios |
 | 9 | devyni/devynios |
 0 is "__nulis__" by the way.
+
+## Accisative
