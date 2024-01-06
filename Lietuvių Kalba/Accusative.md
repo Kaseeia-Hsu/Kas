@@ -10,3 +10,7 @@
 For <mark class="hltr-green">-uo</mark> suffix, the acc. form is <mark class="hltr-green">-enį</mark>, for example: vanduo (water) -> <mark class="hltr-green">vandenį</mark>.
 
 [[Directions#Pas + acc.]]
+
+## Plural Accusative
+
+[[Plural#Accusative]]
