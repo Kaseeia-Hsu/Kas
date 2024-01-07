@@ -2,11 +2,11 @@
 
 ## First Encounter: Iš + gen.
 
-| Masculine | -as | -is | -ys | -us |
-| ---- | ---- | ---- | ---- | ---- |
-|  | -o | -io | -io | -aus |
-| __Feminine__ | __-a__ | __-ė__ |  |  |
-|  | -os | -ės |  |  |
+| Masculine | -as | -is | -ys | -us | -uo |
+| ---- | ---- | ---- | ---- | ---- | ---- |
+|  | -o | -io | -io | -aus | -ens |
+| __Feminine__ | __-a__ | __-ė__ | __-uo__ |  |  |
+|  | -os | -ės | -ers |  |  |
 
 And remember, when we ask people where do they come from, we say __Iš kur tu esi?__ Or __Iš kur jūs esate?__ The reply should be, "<mark class="hltr-green">Aš esu iš... + gen</mark>." For example:
 
