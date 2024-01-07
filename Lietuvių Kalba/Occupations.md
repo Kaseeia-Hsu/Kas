@@ -1,7 +1,7 @@
 #Lithuanian #vocab 
 
 There are certain suffixes used for occupations in Lithuanian, and they are:
-- -ininkas/ė: darbininkas (worker)
-- orius/ė: profesorius/direktorius
-- ėjas/a: kirpėjas
-- tojas/a: mokytojas
+- __-ininkas/ė__: darbininkas (worker)
+- __-orius/ė__: profesorius/direktorius
+- __-ėjas/a__: kirpėjas
+- __-tojas/a__: mokytojas/gydytojas (doctor)
