@@ -4,8 +4,8 @@
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | __Masculine (kas?)__ | -as/-ias | -is | -ys | -us | -ius | -uo |
 | __Kur? Kame?__ | -e/-yje | -yje | -jye | -uje | -iuje | -enyje |
-| __Feminine (kas?)__ | -a/-ia | -is | -ė |  |  |  |
-| __Kur? Kame?__ | -oje/ioje | -yje | -ėje |  |  |  |
+| __Feminine (kas?)__ | -a/-ia | -is | -ė | -uo |  |  |
+| __Kur? Kame?__ | -oje/ioje | -yje | -ėje | -eryje |  |  |
 
 Locative is a special declension in Lithuanian which is used to refer to a place, to express, and to indicate a location. Locative nouns exist independently as a sentence without any other verb. For instance:
 
