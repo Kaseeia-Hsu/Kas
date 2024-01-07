@@ -7,13 +7,14 @@ kasdien
 jau (already) <-> dar (still)
 kaimas (countryside) <-> miestas
 arba, ar (or)
+gal (maybe)
 
 ## Seimos Narys
 
 vyras <-> žmona
 brolis <-> sesuo
 sūnus <-> duktė
-tėvas, tėvelis <-> mama, motina, mamytė
+tėvas, tėvelis, tėtis <-> mama, motina, mamytė
 - tevas + motina = tėvai
 senelis <-> senelė
 - senelis + senelė = seneliai
