@@ -1,5 +1,13 @@
 #Lithuanian #vocab 
 
+## In Article
+
+kartu (together)
+kasdien
+jau (already) <-> dar (still)
+kaimas (countryside) <-> miestas
+arba, ar (or)
+
 ## Seimos Narys
 
 vyras <-> žmona
@@ -22,8 +30,8 @@ išsiskyręs <-> išsiskyrusi (divorced person)
 
 asmuo
 
-mergina (lady)
-moteris (woman)
+mergina (lady) ponia
+moteris (woman) ponelė
 vaikinas (young man)
 vyras (man)
 
@@ -41,3 +49,41 @@ vaikas
 
 žmogus/ės (person/people)
 
+## Profesijos (a)
+
+dainininkas (singer)
+dėstytojas (uni teacher)
+mokytojas
+gydytojas
+slaugytojas (nurse)
+inžinierius
+kirpėjas
+mokslininkas (scientist)
+muzikantas
+
+padavėjas (waiter)
+pardavėjas (salesman)
+
+policininkas
+rašytojas (writer)
+sportininkas
+tarnautojas (officaial)
+vadovas (manager)
+vairuotojas (driver)
+virėjas (cook)
+
+## Verb
+
+galėti, gali/i/iu
+girdėti, girdi/i/<mark class="hltr-blue">girdžiu</mark> (hear)
+mėgti, mėgsta/i/u
+mylėti, myli/i/iu
+
+(pa)sėdėti, sėdi/i/<mark class="hltr-blue">sėdžiu</mark> (sit)
+(pa)stovėti, stovi/i/iu (stand)
+
+(pa)skambinti, skambina/i/u (call)
+susipažinti, susipažįsta/i/u (meet)
+turėti, turi/i/iu
+(pa)žaisti, <mark class="hltr-green">žaidžia</mark>/žaidi/<mark class="hltr-blue">žaidžiu</mark>
+(pa)žiūrėti, žiūri/i/iu (watch)
