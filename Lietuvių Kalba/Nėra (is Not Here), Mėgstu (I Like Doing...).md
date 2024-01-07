@@ -1,1 +1,3 @@
-#Lithuanian 
+#Lithuanian #declension 
+
+## Nėra + Gen.
