@@ -1,4 +1,4 @@
-#Lithuanian 
+#Lithuanian #declension 
 
 ## Possessive Pronouns
 
