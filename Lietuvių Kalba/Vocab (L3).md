@@ -8,6 +8,7 @@ jau (already) <-> dar (still)
 kaimas (countryside) <-> miestas
 arba, ar (or)
 gal (maybe)
+visi (all)
 
 ## Seimos Narys
 
