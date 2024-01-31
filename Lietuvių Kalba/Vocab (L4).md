@@ -8,3 +8,5 @@ valgyti/valgo, eat
 (pa)rašyti/rašo, write
 (pa)skaityti/skaito, read
 (iš)mokyti/moko, teach
+žinoti/žino, know
+klausyti/klauso, listen
