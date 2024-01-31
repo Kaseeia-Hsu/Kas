@@ -1,5 +1,10 @@
 #Lithuanian #vocab 
 
-valgyti/valgo
-(pa)prašyti/prašo
-(pa)daryti/daro
+valgyti/valgo, eat
+(pa)prašyti/prašo, ask, request
+(pa)daryti/daro, make
+(pa)sakyti/sako, say, tell
+(pa)matyti/mato, see
+(pa)rašyti/rašo, write
+(pa)skaityti/skaito, read
+(iš)mokyti/moko, teach
