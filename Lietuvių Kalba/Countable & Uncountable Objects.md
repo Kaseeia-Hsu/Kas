@@ -8,8 +8,10 @@
 
 ## Meals
 
+### Plural
 pusryčiai. (breakfast)
 priešpiečiai (brunch)
 pietūs (lunch)
 pavakariai (afternoon tea)
+### Singular
 vakarienė (dinner, sing.)
