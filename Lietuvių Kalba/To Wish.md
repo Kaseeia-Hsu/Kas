@@ -1,10 +1,10 @@
 #Lithuanian #vocab 
 
-Skanaus!
-Gero apetito!
+- Skanaus!
+- Gero apetito!
 
-Gero dienos!
-Gero vakaro!
-Gero kelionės!
+- Gero dienos!
+- Gero vakaro!
+- Gero kelionės!
 
-Įsveikatą!
+- Įsveikatą!
