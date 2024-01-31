@@ -5,3 +5,11 @@
 <mark class="hltr-green">Singular</mark> pienas, sviestas (butter), arbata (tea), druska (salt), aliejus (oil).
 
 <mark class="hltr-blue">Plural</mark> miltai, sultys (juice), ledai (ice cream).
+
+## Meals
+
+pusryčiai. (breakfast)
+priešpiečiai (brunch)
+pietūs (lunch)
+pavakariai (afternoon tea)
+vakarienė (dinner, sing.)
