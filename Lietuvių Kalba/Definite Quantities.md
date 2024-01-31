@@ -7,5 +7,5 @@
 | imk, imkite | indelį (jar) | majonezo |
 |  | stiklainį (jar) | uogienės (jam) |
 |  | pakelį (pack) | saldainių (nis-iai/candy) |
-|  | dėžutę (box) |  |
+|  | dėžutę (box) | sausainių (nis/cookies) |
 |  | maišelį (pack) |  |
