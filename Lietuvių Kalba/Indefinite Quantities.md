@@ -8,7 +8,7 @@ In Lithuanian, we use <mark class="hltr-green">genitive</mark> to express indefi
 - Duokite ledų (ledai).
 - Imk vandens (vanduo).
 
-Singular we have pieno, sūrio (-is/cheese), varškės (cottage), duonos, cukraus, vandens....
+<mark class="hltr-orange">Singular</mark> we have pieno, sūrio (-is/cheese), varškės (cottage), duonos, cukraus, vandens....
 
-Plural we have vyšnių (ios/cherries), grybų (ai), miltų (ai), sulčių (sult-is-ys).
+<mark class="hltr-blue">Plural</mark> we have vyšnių (ios/cherries), grybų (ai), miltų (ai), sulčių (sult-is-ys).
 
