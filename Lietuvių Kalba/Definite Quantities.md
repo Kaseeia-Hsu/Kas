@@ -2,10 +2,10 @@
 
 |  | Acc. | Gen. |
 | ---- | ---- | ---- |
-| prašom | kilogramą (kilogramas) |  |
-| duok, duokite | litrą (literas) |  |
-| imk, imkite | indelį (case) |  |
+| prašom | kilogramą (kilogramas) | obuolių, pomidorų |
+| duok, duokite | litrą (literas) | pieno, kefyro |
+| imk, imkite | indelį (jar) | majonezo |
 |  | stiklainį (jar) |  |
 |  | pakelį (pack) |  |
 |  | dėžutę (box) |  |
-|  | maišelį (pac) |  |
+|  | maišelį (pack) |  |
