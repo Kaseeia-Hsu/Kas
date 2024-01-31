@@ -11,7 +11,6 @@
 | 7 | septyni/septynios |
 | 8 | aštuoni/aštuonios |
 | 9 | devyni/devynios |
-0 is "__nulis__" by the way.
 
 ## Accisative
 
@@ -21,3 +20,19 @@
 ### 4-9
 - Masculine: <mark class="hltr-blue">+is</mark> keturis, penkis...
 - Feminine: <mark class="hltr-red">+ias</mark> keturias, penkias...
+
+## More Numbers
+
+|  |  |
+| ---- | ---- |
+| 0 | nulis |
+| 10 | dešimt |
+| 11 | vienuolika |
+| 12 | dvylika |
+| 13 |  |
+| 14 |  |
+| 15 |  |
+| 16 |  |
+| 17 |  |
+| 18 |  |
+| 19 |  |
