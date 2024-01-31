@@ -5,7 +5,7 @@
 | prašom | kilogramą (kilogramas) | obuolių, pomidorų |
 | duok, duokite | litrą (literas) | pieno, kefyro |
 | imk, imkite | indelį (jar) | majonezo |
-|  | stiklainį (jar) |  |
+|  | stiklainį (jar) | uogienės (jam) |
 |  | pakelį (pack) |  |
 |  | dėžutę (box) |  |
 |  | maišelį (pack) |  |
