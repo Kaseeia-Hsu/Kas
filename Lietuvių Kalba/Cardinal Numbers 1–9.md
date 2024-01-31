@@ -29,10 +29,26 @@
 | 10 | dešimt |
 | 11 | vienuolika |
 | 12 | dvylika |
-| 13 |  |
-| 14 |  |
-| 15 |  |
-| 16 |  |
-| 17 |  |
-| 18 |  |
-| 19 |  |
+| 13 | trylika |
+| 14 | keturiolika |
+| 15 | penkiolika |
+| 16 | šešiolika |
+| 17 | septyniolika |
+| 18 | aštuoniolika |
+| 19 | devyniolika |
+| 20 | dvidešimt |
+| 21 | dvidešimt vienas/viena |
+etc... and so on.
+
+|  |  |
+| ---- | ---- |
+| 30 | trisdešimt |
+| 40 | keturiasdešimt |
+| 50 | penkiasdešimt |
+| 60 | šešiasdešimt |
+| 70 | septyniasdešimt |
+| 80 | aštuoniasdešimt |
+| 90 | devyniasdešimt |
+| 100 | šimtas |
+| 1000 | tūkstantis |
+| 1000000 | milijonas |
