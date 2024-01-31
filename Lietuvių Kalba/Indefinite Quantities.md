@@ -10,5 +10,5 @@ In Lithuanian, we use <mark class="hltr-green">genitive</mark> to express indefi
 
 Singular we have pieno, sūrio (-is/cheese), varškės (cottage), duonos, cukraus, vandens....
 
-Plural we have vyšnių (ios, prašom grybų, miltų, sulčių.
+Plural we have vyšnių (ios/cherries), grybų (ai), miltų (ai), sulčių (sult-is-ys).
 
