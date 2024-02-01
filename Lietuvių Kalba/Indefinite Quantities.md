@@ -1,4 +1,4 @@
-#Lithuanian #declension 
+#Lithuanian #declension #quantities 
 
 In Lithuanian, we use <mark class="hltr-green">genitive</mark> to express indefinite quantities:
 
