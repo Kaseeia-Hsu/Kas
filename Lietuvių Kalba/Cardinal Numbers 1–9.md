@@ -1,4 +1,4 @@
-#Lithuanian 
+#Lithuanian #quantities
 
 |  |  |
 | ---- | ---- |
@@ -52,3 +52,7 @@ etc... and so on.
 | 100 | šimtas |
 | 1000 | tūkstantis |
 | 1000000 | milijonas |
+
+So, we'll have something like:
+- dešimt obuolių
+- dvidešimt vienas studentas/viena studentė

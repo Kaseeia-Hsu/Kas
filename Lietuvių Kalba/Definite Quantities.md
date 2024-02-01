@@ -1,4 +1,4 @@
-#Lithuanian #declension 
+#Lithuanian #declension #quantities 
 
 |  | Acc. | Gen. |
 | ---- | ---- | ---- |
