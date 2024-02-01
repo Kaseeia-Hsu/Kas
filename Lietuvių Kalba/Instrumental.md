@@ -25,9 +25,9 @@ Instrumental is a new case we meet here: __su pienu, su sūriu (sūris/cheese)
 | inst. | -a/-a | -e | -imi | -eria |
 |  | mork__a__ (carrot), vyšn__ia__ (cherry) | bulv__ė__ | žuv__is__ | sesuo, duktė |
 |  | mork__a__, vyšn__ia__ | bulv__e__ | žuv__imi__ | seseria, dukeria |
-| Pl. nom. |  |  |  |  |
-| Pl. inst. |  |  |  |  |
-|  |  |  |  |  |
+| Pl. nom. | mork__os__, vyšn__ios__ | bulv__ės__ | žuv__ys__ | seserys, dukterys |
+| Pl. inst. | mork__omis__, vyšn__iomis__ | bulv__ėmis__ | žuv__imis__ | seserimis, dukterimis |
+|  | -omis | -ėmis | -imis | -er imis |
 
   
 
