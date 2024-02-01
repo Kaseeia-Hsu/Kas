@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lietuvių Kalba/Be + Genitive (without).md",
+                "file": "Lietuvių Kalba/Plural.md",
                 "mode": "source",
                 "source": false
               }
@@ -76,9 +76,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Lietuvių Kalba/Be + Genitive (without).md"
-              }
+              "state": {}
             }
           }
         ]
@@ -101,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lietuvių Kalba/Be + Genitive (without).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +123,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lietuvių Kalba/Be + Genitive (without).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,34 +182,34 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "40325e3a1e678952",
+  "active": "7ed1f30b0c7cbffd",
   "lastOpenFiles": [
-    "Lietuvių Kalba/未命名.md",
-    "Lietuvių Kalba/Be + Genitive (without).md",
-    "Lietuvių Kalba/Instrumental.md",
     "Lietuvių Kalba/Plural.md",
-    "Lietuvių Kalba/Amount Words.md",
-    "Lietuvių Kalba/Countable & Uncountable Objects.md",
-    "Lietuvių Kalba/Indefinite Quantities.md",
-    "Lietuvių Kalba/Definite Quantities.md",
-    "Lietuvių Kalba/Genitive.md",
     "Lietuvių Kalba/Directions.md",
-    "Lietuvių Kalba/Cardinal Numbers 1–9.md",
-    "Lietuvių Kalba/To Wish.md",
-    "Lietuvių Kalba/Accusative.md",
+    "Lietuvių Kalba/Countable & Uncountable Objects.md",
     "Lietuvių Kalba/-iena (Meats).md",
-    "Lietuvių Kalba/Genitive Names.md",
-    "Lietuvių Kalba/Vocab (L4).md",
-    "Lietuvių Kalba/Vocab (L2).md",
-    "Lietuvių Kalba/Possessive Pronouns & Genitive.md",
-    "Lietuvių Kalba/Time and Frequency.md",
-    "Lietuvių Kalba/Locative.md",
-    "Lietuvių Kalba/Location.md",
-    "Lietuvių Kalba/Vocab (L3).md",
-    "Lietuvių Kalba/Imperative.md",
+    "Lietuvių Kalba/Instrumental.md",
     "Lietuvių Kalba/Kieno...? (Whose?).md",
     "Lietuvių Kalba/Kiek...? (How many?).md",
+    "Lietuvių Kalba/Imperative.md",
+    "Lietuvių Kalba/Mėgstu (I Like Doing...).md",
+    "Lietuvių Kalba/Locative.md",
+    "Lietuvių Kalba/Genitive Names.md",
+    "Lietuvių Kalba/Genitive.md",
+    "Lietuvių Kalba/Cardinal Numbers 1–9.md",
+    "Écrits/20240113. Literatures..md",
+    "Lietuvių Kalba/Possessive Pronouns & Genitive.md",
+    "Lietuvių Kalba/Occupations.md",
+    "Lietuvių Kalba/Vocab (L3).md",
+    "Lietuvių Kalba/Amount Words.md",
+    "Lietuvių Kalba/Accusative.md",
+    "Lietuvių Kalba/Vocab (L2).md",
+    "Lietuvių Kalba/Indefinite Quantities.md",
     "Écrits/20240104. (II) ...O L'amnistia?.md",
+    "Écrits/20240104. (I) I Endure Life..md",
+    "Lietuvių Kalba/Be + Genitive (without).md",
+    "Lietuvių Kalba/未命名.md",
+    "Lietuvių Kalba/Definite Quantities.md",
     "Écrits",
     "Obsidian",
     "Lietuvių Kalba",
