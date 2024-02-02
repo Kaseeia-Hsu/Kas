@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lietuvių Kalba/Directions.md",
+                "file": "Lietuvių Kalba/Vocative.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lietuvių Kalba/Directions.md"
+                "file": "Lietuvių Kalba/Vocative.md"
               }
             }
           }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lietuvių Kalba/Directions.md",
+                "file": "Lietuvių Kalba/Vocative.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lietuvių Kalba/Directions.md",
+                "file": "Lietuvių Kalba/Vocative.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,8 +188,9 @@
   },
   "active": "40325e3a1e678952",
   "lastOpenFiles": [
-    "Lietuvių Kalba/Genitive.md",
     "Lietuvių Kalba/Directions.md",
+    "Lietuvių Kalba/Vocative.md",
+    "Lietuvių Kalba/Genitive.md",
     "Lietuvių Kalba/Cardinal Numbers 1–9.md",
     "Lietuvių Kalba/Be + Genitive (without).md",
     "Écrits/20240104. (I) I Endure Life..md",
@@ -212,7 +213,6 @@
     "Lietuvių Kalba/Accusative.md",
     "Lietuvių Kalba/Vocab (L2).md",
     "Lietuvių Kalba/Indefinite Quantities.md",
-    "Lietuvių Kalba/未命名.md",
     "Lietuvių Kalba/Definite Quantities.md",
     "Écrits",
     "Obsidian",
