@@ -13,3 +13,10 @@
 | ---- | ---- | ---- | ---- |
 | -i | -y | -au, -iau | -enie |
 | brolis -> broli | mokinys -> mokiny | sūnus -> sūnau | ruduo -> rudenie |
+
+## Feminine
+
+| -a/-ia | -ė | -is | -uo |
+| ---- | ---- | ---- | ---- |
+| -a/-ia | -e | -ie | -erie |
+| mama, Dalia -> mama, Dalia | mergaitė(girl) -> mergaite | moteris -> moteris | sesuo, duktė -> seserie, dukterie |
