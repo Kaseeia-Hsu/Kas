@@ -12,7 +12,7 @@
 | 8 | aštuoni/aštuonios |
 | 9 | devyni/devynios |
 
-## Accisative
+## Accusative
 
 ### 1-3
 - Masculine: vieną, du, tris
