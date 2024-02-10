@@ -58,7 +58,7 @@
   "o-theme-settings@@s-header-lapel": false,
   "o-theme-settings@@fancy-callouts": false,
   "serenity-theme@@contrast-dark": "medium-contrast-dark",
-  "serenity-theme@@color-accent-class-select": "auto-accent",
+  "serenity-theme@@color-accent-class-select": "pink-accent",
   "mado-miniflow@@theme-color": "theme-daisy-blue",
   "typomagical-images@@ss-image-caption": true,
   "typomagical-colour@@theme-variant": "obsidian",
@@ -66,7 +66,7 @@
   "typomagical-title@@title-gradient": "ss-title-solid",
   "typomagical-title@@font-title": "Amiri",
   "serenity-theme@@flat-mode": true,
-  "serenity-theme@@color-scheme-select": "theme-nord-s",
+  "serenity-theme@@color-scheme-select": "theme-normal",
   "typomagical-colour@@background-color-enable": false,
   "o-theme-settings@@ul-radius": "0",
   "o-theme-settings@@ul-left-collapse-btn-border": false,
@@ -93,5 +93,6 @@
   "mado-11@@theme-color": "theme-grayscale",
   "Appearance-dark@@card-layout-open-dark": true,
   "Appearance-dark@@theme-dark-style-select": "theme-dark-background-default",
-  "serenity-theme@@fonts-source": "font-bundle"
+  "serenity-theme@@fonts-source": "font-bundle",
+  "custom-diegoeis-simple@@eis-sidebar-dark": false
 }
