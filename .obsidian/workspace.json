@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lietuvių Kalba/Amount Words.md",
+                "file": "Lietuvių Kalba/Countable & Uncountable Objects.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lietuvių Kalba/Amount Words.md"
+                "file": "Lietuvių Kalba/Countable & Uncountable Objects.md"
               }
             }
           }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lietuvių Kalba/Amount Words.md",
+                "file": "Lietuvių Kalba/Countable & Uncountable Objects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lietuvių Kalba/Amount Words.md",
+                "file": "Lietuvių Kalba/Countable & Uncountable Objects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,8 +186,11 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "40325e3a1e678952",
+  "active": "f58af818dfbd63a9",
   "lastOpenFiles": [
+    "日本語/ではありません.md",
+    "Lietuvių Kalba/Amount Words.md",
+    "日本語",
     "Écrits/20240113. Literatures..md",
     "Écrits/20240104. (I) I Endure Life..md",
     "Écrits/20240104. (II) ...O L'amnistia?.md",
@@ -212,8 +215,6 @@
     "Lietuvių Kalba/Imperative.md",
     "Lietuvių Kalba/Genitive Names.md",
     "Lietuvių Kalba/Possessive Pronouns & Genitive.md",
-    "Lietuvių Kalba/Occupations.md",
-    "Lietuvių Kalba/Vocab (L3).md",
     "Écrits",
     "Obsidian",
     "Lietuvių Kalba",
