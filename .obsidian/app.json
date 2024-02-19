@@ -9,5 +9,6 @@
   },
   "focusNewTab": true,
   "defaultViewMode": "source",
-  "showInlineTitle": true
+  "showInlineTitle": true,
+  "alwaysUpdateLinks": true
 }
