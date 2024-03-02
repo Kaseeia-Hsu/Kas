@@ -12,3 +12,4 @@ In Lithuanian, we use <mark class="hltr-green">genitive</mark> to express indefi
 
 <mark class="hltr-blue">Plural</mark> we have vyšnių (ios/cherries), grybų (ai), miltų (ai), sulčių (sult-is-ys).
 
+[[Genitive]]
