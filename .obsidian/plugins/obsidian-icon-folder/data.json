@@ -26,14 +26,12 @@
     "iconsBackgroundCheckEnabled": false,
     "iconsInNotesEnabled": true
   },
-  "Lietuvių Kalba/Nationality.md": "CoMainComponent",
   "Lietuvių Kalba/Genitive.md": "CoMainComponent",
   "Lietuvių Kalba/Cardinal Numbers 1–9.md": "CoMainComponent",
   "Lietuvių Kalba/Greetings in Conversations.md": "CoMainComponent",
   "Lietuvių Kalba/Accusative.md": "CoMainComponent",
   "Lietuvių Kalba/Directions.md": "CoMainComponent",
   "Lietuvių Kalba/Vocab (L2).md": "CoMainComponent",
-  "Lietuvių Kalba/Locative.md": "CoMainComponent",
   "Lietuvių Kalba/Location.md": "CoMainComponent",
   "Lietuvių Kalba/Time and Frequency.md": "CoMainComponent",
   "Lietuvių Kalba/Imperative.md": "CoMainComponent",
@@ -61,5 +59,7 @@
   "Lietuvių Kalba/Be + Genitive (without).md": "CoMainComponent",
   "Lietuvių Kalba/Vocative.md": "CoMainComponent",
   "Lietuvių Kalba/Adjectives' Genders.md": "CoMainComponent",
-  "Lietuvių Kalba/Comparative.md": "CoMainComponent"
+  "Lietuvių Kalba/Comparative.md": "CoMainComponent",
+  "Lietuvių Kalba/Nationality.md": "CoMainComponent",
+  "Lietuvių Kalba/Locative.md": "CoMainComponent"
 }
