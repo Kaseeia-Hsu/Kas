@@ -3,7 +3,7 @@ Chevalier mult estes guariz,
 Quant Deu a vus fait sa clamur,
 就在您聽到主的召喚時
 Des Turs e des Amoraviz,
-當土耳其與穆拉比特的蠻人們
+當突厥與穆拉比特的蠻人們
 Ki li unt fait tels deshenors.  
 糟蹋了祂神聖榮光
 Cher a tort unt ses fieuz saisiz;  
@@ -18,7 +18,7 @@ E reconuu per Segnurr.
 Ki ore irat od Loovis,  
 無論是誰，但從吾王路易
 Ja mar d'enfern avrat pouur,  
-就將不再畏懼煉獄之海
+就將不再畏懼煉獄
 Char s'alme en iert en pareïs,  
 因他們的靈魂終將飛昇天堂
 Od les angles nostre Segnor. 
@@ -44,24 +44,9 @@ Ki pur vus fut en cruiz drecez.
 Ki ore irat od Loovis,  
 無論是誰，但從吾王路易
 Ja mar d'enfern avrat pouur,  
-就將不再畏懼煉獄之海
+就將不再畏懼煉獄
 Char s'alme en iert en pareïs,  
 因他們的靈魂終將飛昇天堂
 Od les angles nostre Segnor.  
 與我主的天使們
   
-Alum conquer Moïsès,  
-讓我們重爭摩西的應許之地
-Ki gist el munt de Sinaï;  
-在西奈山上ㄓ
-A Saragins nel laisum mais,  
-Ne la verge dunt il partid,  
-La Roge mer tut ad un fais,  
-Quant le grant pople le seguit;  
-E Pharaon revint après:  
-El e li suon furent perit.  
-  
-Ki ore irat od Loovis,  
-Ja mar d'enfern avrat pouur,  
-Char s'alme en iert en pareïs,  
-Od les angles nostre Segnor.
