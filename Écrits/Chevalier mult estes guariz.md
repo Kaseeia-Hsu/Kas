@@ -1,20 +1,28 @@
 Chevalier mult estes guariz, 
-騎士，您的救贖將來到
+騎士，救贖之日就將到來
 Quant Deu a vus fait sa clamur,
 就在您聽到主的召喚時
 Des Turs e des Amoraviz,
-土耳其與穆拉比特的蠻人們
+當土耳其與穆拉比特的蠻人們
 Ki li unt fait tels deshenors.  
-糟蹋了祂身旁的ㄖ
+糟蹋了祂神聖的榮光
 Cher a tort unt ses fieuz saisiz;  
+不公地竊佔了祂的封邑
 Bien en devums aveir dolur,  
+我們須為此而同負其辱
 Cher la fud Deu primes servi,  
+只因祂為我最初侍奉
 E reconuu per Segnurr.  
+且獨尊為主之形象
   
 Ki ore irat od Loovis,  
+無論是誰，但從吾王路易
 Ja mar d'enfern avrat pouur,  
+就將不再畏懼煉獄之海
 Char s'alme en iert en pareïs,  
-Od les angles nostre Segnor.  
+因他們的靈魂終將飛昇天堂
+Od les angles nostre Segnor. 
+與我主的天使們
   
 Pris est Rohais, ben le savez,  
 Dunt cretiens sunt esmaiez,  
