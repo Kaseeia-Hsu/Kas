@@ -8,3 +8,5 @@ Mėgstu + žaisti (play), žiūrėti (watch), būti... etc.
 	- Aš mėgstu žiūrėti televizorių (acc.).
 	- Aš mėgstu būti namie.
 	- Vaikai mėgsta žaisti. (Kids like to play)
+
+[[Mylėti (to love)]]
