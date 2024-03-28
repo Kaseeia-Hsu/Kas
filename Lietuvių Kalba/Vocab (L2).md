@@ -11,7 +11,7 @@
 	- Kada grįžti?
 - Susitikti: Susitinka/i/u <mark class="hltr-green">(to meet)</mark>
 	- Kur susitinkam(e)?
-- Sakyti: Sako/ai/ao <mark class="hltr-green">(to say)</mark>
+- Sakyti: Sako/ai/au <mark class="hltr-green">(to say)</mark>
 	- Užsisakyti <mark class="hltr-green">(to order)</mark>
 - Laukti: Laukia/i/iu <mark class="hltr-green">(to wait)</mark>
 - Mėgti: Mėgsta/i/u
