@@ -5,8 +5,8 @@
 | Masculine | -as | -is | -ys | -us | -uo |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 |  | -o | -io | -io | -aus | -ens |
-| __Feminine__ | __-a__ | __-ė__ | __-uo__ |  |  |
-|  | -os | -ės | -ers |  |  |
+| __Feminine__ | __-a__ | __-ė__ | __-uo__ | __-is__ |  |
+|  | -os | -ės | -ers | -ies |  |
 
 And remember, when we ask people where do they come from, we say __Iš kur tu esi?__ Or __Iš kur jūs esate?__ The reply should be, "<mark class="hltr-green">Aš esu iš... + gen</mark>." For example:
 
