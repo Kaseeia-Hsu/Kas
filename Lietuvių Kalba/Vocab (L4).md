@@ -12,6 +12,7 @@ valgyti/valgo, eat
 (iš)mokyti/moko, teach
 žinoti/žino, know
 klausyti/klauso, listen
+išsirinkti/išsirenka, choose
 
 aptarnauti/aptarnauja, serve
 
@@ -23,4 +24,4 @@ restoranas, restorant
 valgykla, canteen
 savitarna, self-service
 padavėjas/padavėja, waiter
-valgiaraštis
+valgiaraštis/-io/meniu, menu
