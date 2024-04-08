@@ -18,7 +18,7 @@ užsisakyti/užsisako, order
 
 aptarnauti/aptarnauja, serve
 kainuoti/kainuoja, cost
-ar
+
 ## Valgiai ir Gėrimai
 
 baras, bar
@@ -31,4 +31,9 @@ valgiaraštis/-io/meniu, menu
 sąskaita, bill
 kaina, price
 arbatpinigiai, tip
-butellis, io
+
+butellis/-io, bottle
+dėžė/dėžutė, box
+pakelis/-io, package
+stiklainis/-io, jar
+maišas/maišelis, -io bag, sack
