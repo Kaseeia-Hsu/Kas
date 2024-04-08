@@ -13,9 +13,12 @@ valgyti/valgo, eat
 žinoti/žino, know
 klausyti/klauso, listen
 išsirinkti/išsirenka, choose
+užsisakyti/užsisako, order
+- užsisakyti staliuką (-as) / patiekalą (-as)
 
 aptarnauti/aptarnauja, serve
-
+kainuoti/kainuoja, cost
+ar
 ## Valgiai ir Gėrimai
 
 baras, bar
@@ -25,3 +28,7 @@ valgykla, canteen
 savitarna, self-service
 padavėjas/padavėja, waiter
 valgiaraštis/-io/meniu, menu
+sąskaita, bill
+kaina, price
+arbatpinigiai, tip
+butellis, io
