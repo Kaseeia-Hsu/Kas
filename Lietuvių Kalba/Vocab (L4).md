@@ -13,8 +13,14 @@ valgyti/valgo, eat
 žinoti/žino, know
 klausyti/klauso, listen
 
+aptarnauti/aptarnauja, serve
+
 ## Valgiai ir Gėrimai
 
 baras, bar
 kavinė, cafe
-resto
+restoranas, restorant
+valgykla, canteen
+savitarna, self-service
+padavėjas/padavėja, waiter
+valgiaraštis
