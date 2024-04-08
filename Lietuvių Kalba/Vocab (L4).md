@@ -1,5 +1,7 @@
 #Lithuanian #vocab 
 
+## Verbs
+
 valgyti/valgo, eat
 (pa)prašyti/prašo, ask, request
 (pa)daryti/daro, make
@@ -10,3 +12,9 @@ valgyti/valgo, eat
 (iš)mokyti/moko, teach
 žinoti/žino, know
 klausyti/klauso, listen
+
+## Valgiai ir Gėrimai
+
+baras, bar
+kavinė, cafe
+resto
