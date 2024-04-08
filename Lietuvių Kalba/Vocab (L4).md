@@ -37,3 +37,9 @@ dėžė/dėžutė, box
 pakelis/-io, package
 stiklainis/-io, jar
 maišas/maišelis, -io bag, sack
+
+mėsa, meat
+dešra/dešrelės (pl.), sausage
+kumpis/-io, ham
+pieno produktai, dairy products
+pienas
