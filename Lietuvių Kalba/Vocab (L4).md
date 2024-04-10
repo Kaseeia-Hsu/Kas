@@ -92,4 +92,5 @@ medus, honey
 uogienė, marmalade
 ledai, ice cream
 šokoladas
-sausainis/-io
+sausainis/-io, biscuit
+
