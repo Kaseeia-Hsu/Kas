@@ -80,3 +80,16 @@ slyva, plum
 vyšnia, cherry
 avietė, raspberry
 riešutas, nut
+
+saldumynai, sweets
+saldainis/-io, sweet
+
+tortas, cake
+pyragas, pie
+pyragaitis/-io, small cake
+pyragėlis/-io, pastry
+medus, honey
+uogienė, marmalade
+ledai, ice cream
+šokoladas
+sausainis/-io
