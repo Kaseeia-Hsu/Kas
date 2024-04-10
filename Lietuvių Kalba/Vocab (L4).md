@@ -73,3 +73,10 @@ vynuogė, grape
 obuolys, apple
 bananas, banana
 kriaušė, pear
+apelsinas, orange
+citrina, lemon
+braškė, strawberry
+slyva, plum
+vyšnia, cherry
+avietė, raspberry
+riešutas, nut
