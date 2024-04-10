@@ -42,4 +42,23 @@ mėsa, meat
 dešra/dešrelės (pl.), sausage
 kumpis/-io, ham
 pieno produktai, dairy products
-pienas
+pienas, milk
+
+varškė, cottage cheese
+sūris/-io, cheese
+grietinė, sour cream
+grietinėlė, cream
+sviestas, butter
+margarinas, artificial butter
+jogurtas, yoghurt
+kefyras, sour milk
+
+daržovės, vegetables
+bulvė, potato
+morka, carrot
+agurkas, cucumber
+pomidoras, tomato
+žirnis/-io, pea
+pupelė, bean
+svogūnas, onion
+česnakas, garlic
