@@ -62,3 +62,14 @@ žirnis/-io, pea
 pupelė, bean
 svogūnas, onion
 česnakas, garlic
+kopūstas, cabbage
+burokėlis/-io, beet
+salotos, lettuce
+moliūgas, pumpkin
+
+## Vaisiai ir Uogos
+
+vynuogė, grape
+obuolys, apple
+bananas, banana
+kriaušė, pear
