@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "41b56664b73fd805",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lietuvių Kalba/Vocab (L4).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -56,6 +69,14 @@
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "526c1cda93df0c3d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
             }
           }
         ]
@@ -180,12 +201,12 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "40325e3a1e678952",
+  "active": "41b56664b73fd805",
   "lastOpenFiles": [
+    "Lietuvių Kalba/Vocative.md",
     "Lietuvių Kalba/Genitive.md",
     "Lietuvių Kalba/Vocab (L4).md",
     "Pasted image 20240210220920.png",
-    "Lietuvių Kalba/Vocative.md",
     "Lietuvių Kalba/Vocab (L3).md",
     "Lietuvių Kalba/Countable & Uncountable Objects.md",
     "Lietuvių Kalba/Be + Genitive (without).md",
