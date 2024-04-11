@@ -41,9 +41,9 @@ maišas/maišelis, -io bag, sack
 mėsa, meat
 dešra/dešrelės (pl.), sausage
 kumpis/-io, ham
-pieno produktai, dairy products
-pienas, milk
 
+### pieno produktai, dairy products
+pienas, milk
 varškė, cottage cheese
 sūris/-io, cheese
 grietinė, sour cream
@@ -53,7 +53,7 @@ margarinas, artificial butter
 jogurtas, yoghurt
 kefyras, sour milk
 
-daržovės, vegetables
+### daržovės, vegetables
 bulvė, potato
 morka, carrot
 agurkas, cucumber
@@ -67,6 +67,33 @@ burokėlis/-io, beet
 salotos, lettuce
 moliūgas, pumpkin
 
+saldumynai, sweets
+saldainis/-io, sweet
+
+tortas, cake
+pyragas, pie
+pyragaitis/-io, small cake
+pyragėlis/-io, pastry
+medus, honey
+uogienė, marmalade
+ledai, ice cream
+šokoladas
+sausainis/-io, biscuit
+
+gerimai, beverages
+kava, coffee
+arbata, tea
+vanduo, water
+gazuotas, gas water
+negazuotas, still water
+sultys, juice
+
+alkohoniai gerimai
+- vynas, wine
+- alus, beer
+- šampanas, champagne
+- degtinė, vodka
+- likeris/-io, liqueur
 ## Vaisiai ir Uogos
 
 vynuogė, grape
@@ -81,16 +108,4 @@ vyšnia, cherry
 avietė, raspberry
 riešutas, nut
 
-saldumynai, sweets
-saldainis/-io, sweet
-
-tortas, cake
-pyragas, pie
-pyragaitis/-io, small cake
-pyragėlis/-io, pastry
-medus, honey
-uogienė, marmalade
-ledai, ice cream
-šokoladas
-sausainis/-io, biscuit
 
