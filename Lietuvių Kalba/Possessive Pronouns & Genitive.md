@@ -11,7 +11,7 @@
 ## Genitive + O.
 
 - Jono (as+gen.) žmona.
-- Mamos (a+gen.) vardas.
+- Manos (a+gen.) vardas.
 - Jo šeima. (His house)
 - Jų vaikai. (Their names)
 - Studentų bendrabutis. (Students' dormitory)

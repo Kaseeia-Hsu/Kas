@@ -67,9 +67,8 @@ burokėlis/-io, beet
 salotos, lettuce
 moliūgas, pumpkin
 
-saldumynai, sweets
+### saldumynai, sweets
 saldainis/-io, sweet
-
 tortas, cake
 pyragas, pie
 pyragaitis/-io, small cake
@@ -80,7 +79,7 @@ ledai, ice cream
 šokoladas
 sausainis/-io, biscuit
 
-gerimai, beverages
+### gerimai, beverages
 kava, coffee
 arbata, tea
 vanduo, water
@@ -88,12 +87,14 @@ gazuotas, gas water
 negazuotas, still water
 sultys, juice
 
-alkohoniai gerimai
+### alkohoniai gerimai
 - vynas, wine
 - alus, beer
 - šampanas, champagne
 - degtinė, vodka
 - likeris/-io, liqueur
+
+
 ## Vaisiai ir Uogos
 
 vynuogė, grape
