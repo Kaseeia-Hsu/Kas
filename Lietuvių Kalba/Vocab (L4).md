@@ -88,13 +88,26 @@ negazuotas, still water
 sultys, juice
 
 ### alkohoniai gerimai
-- vynas, wine
-- alus, beer
-- šampanas, champagne
-- degtinė, vodka
-- likeris/-io, liqueur
+vynas, wine
+alus, beer
+šampanas, champagndegtinė, vodka
+likeris/-io, liqueur
 
+## duonos produktai
+duona/juoda/balta, breaad
+batonas, French bread
+bandelė, bun
+miltai, flour
+cukurus, sugar
+vanilinis cukrus
+druska, salt
 
+žuvis/-ies, fish
+lašiša, salmon
+silkė, herring
+
+grybai, mushrooms
+kiaušinis/-io
 ## Vaisiai ir Uogos
 
 vynuogė, grape
