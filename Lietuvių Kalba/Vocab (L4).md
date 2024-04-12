@@ -2,7 +2,7 @@
 
 ## Verbs
 
-valgyti/valgo, eat
+(su)valgyti/valgo, eat
 (pa)prašyti/prašo, ask, request
 (pa)daryti/daro, make
 (pa)sakyti/sako, say, tell
@@ -19,6 +19,21 @@ užsisakyti/užsisako, order
 aptarnauti/aptarnauja, serve
 kainuoti/kainuoja, cost
 
+(iš)gerti/geria, drink
+(pa)ragauti/ragauja, taste
+(iš)virti/verda, cook
+(iš)kepti/kepa, bake/fry
+(pa)pietauti/pietauja, have lunch
+(pa)vakarienauti/vakarienauja, have dinner
+(pa)pusryčiauti/pusryčiauja, have breakfast
+
+(į)pilti/pila, pour
+(į)dėti/deda, put
+(su)maišyti/maišo, mix
+(su)pjaustyti/pjausto, cut
+
+mėgti/mėgsta, like
+norėti/nori (ko?), want
 ## Valgiai ir Gėrimai
 
 baras, bar
@@ -126,4 +141,7 @@ vyšnia, cherry
 avietė, raspberry
 riešutas, nut
 
-
+įdaras, filling
+pusryčiai, breakfast __(pusryčiauti)__
+pietūs, lunch __(pietauti)__
+vakarienė, dinner __(vakarienauti)__
