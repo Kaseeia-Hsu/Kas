@@ -90,5 +90,6 @@
   "serenity-theme@@fonts-source": "font-bundle",
   "custom-diegoeis-simple@@eis-sidebar-dark": false,
   "serenity-theme@@h-font-s": "var(--font-text)",
-  "serenity-theme@@colorful-headings-s": true
+  "serenity-theme@@colorful-headings-s": true,
+  "custom-diegoeis-simple@@eis-font-type": "eis-font-iawriter-quattro"
 }
