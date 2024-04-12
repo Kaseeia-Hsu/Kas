@@ -149,4 +149,11 @@ pavakariai, snack before dinner
 priešpiečiai, snack before afternoon
 
 ## Adjectives
-skanus, -i
+skanus/-i, tasty
+saldus/-i, sweet
+rūgštus/-i, sour
+kartus/-i, bitter
+sūrus/-i, salty
+vaisinis/-ė, fruity
+
+### žalias
