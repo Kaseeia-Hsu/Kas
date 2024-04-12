@@ -1,5 +1,8 @@
 #Lithuanian #vocab 
 
+iškart, right away
+užtenka, enough
+abiem, for both
 ## Verbs
 
 (su)valgyti/valgo, eat
@@ -18,6 +21,7 @@ užsisakyti/užsisako, order
 
 aptarnauti/aptarnauja, serve
 kainuoti/kainuoja, cost
+skubėti/skuba, rush
 
 (iš)gerti/geria, drink
 (pa)ragauti/ragauja, taste

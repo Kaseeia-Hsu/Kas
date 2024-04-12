@@ -10,7 +10,7 @@ kasdien: everyday
 rytoj: tomorrow
 vakar: yesterday
 poryt: the day after tomorrow
-
+iškart: right away
 ## Frequency
 
 visada: always
