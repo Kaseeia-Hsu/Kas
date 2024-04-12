@@ -91,9 +91,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Lietuvių Kalba/Vocab (L4).md"
-              }
+              "state": {}
             }
           }
         ]
@@ -116,7 +114,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lietuvių Kalba/Vocab (L4).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +138,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lietuvių Kalba/Vocab (L4).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,8 +197,9 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "41b56664b73fd805",
+  "active": "7ed1f30b0c7cbffd",
   "lastOpenFiles": [
+    "Lietuvių Kalba/Vocab (L4).md",
     "Lietuvių Kalba/All Verbs' Conjugation.md",
     "Lietuvių Kalba/Genitive.md",
     "Lietuvių Kalba/Genitive Names.md",
@@ -212,7 +209,6 @@
     "Lietuvių Kalba/Plural.md",
     "Lietuvių Kalba/Accusative.md",
     "Lietuvių Kalba/Definite Quantities.md",
-    "Lietuvių Kalba/Vocab (L4).md",
     "Lietuvių Kalba/Vocative.md",
     "Lietuvių Kalba/Mylėti (to love).md",
     "Lietuvių Kalba/Occupations.md",
