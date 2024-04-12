@@ -148,6 +148,28 @@ vakarienė, dinner __(vakarienauti)__
 pavakariai, snack before dinner
 priešpiečiai, snack before afternoon
 
+patiekalas, dish
+sriuba, soup
+sultinys, beef soup ecc
+šaltibarščiai, cold beetroot soup
+šalti patiekalai, cold dishes
+karšti patiekalai, main dishes
+kepsnys, roast meat
+didžkukulis/-io, dumpling
+blynas, pancake
+košė, porridge
+mišrainė, Russian salad
+sumuštinis/-io, sandwich
+
+## Pinigai, money
+litas
+centas
+doleris/-io
+svaras, pound
+euras
+krona
+latas
+
 ## Adjectives
 skanus/-i, tasty
 saldus/-i, sweet
@@ -155,8 +177,11 @@ rūgštus/-i, sour
 kartus/-i, bitter
 sūrus/-i, salty
 vaisinis/-ė, fruity
-
+rūkytas/-a, smoked
+keptas/-a, roast
 ### Colours
 žalias/-ia, green
 juodas/-a, black
-rūkytas/-a, smoked
+pilkas/-a, white
+raudonas/-a, red
+geltonas/-a, yellow
