@@ -93,7 +93,7 @@ alus, beer
 šampanas, champagndegtinė, vodka
 likeris/-io, liqueur
 
-## duonos produktai
+### duonos produktai
 duona/juoda/balta, breaad
 batonas, French bread
 bandelė, bun
@@ -107,7 +107,11 @@ lašiša, salmon
 silkė, herring
 
 grybai, mushrooms
-kiaušinis/-io
+kiaušinis/-io, egg
+aliejus, oil
+majonezas
+makaronai, pasta, noodles
+pipirai, pepper
 ## Vaisiai ir Uogos
 
 vynuogė, grape

@@ -91,5 +91,9 @@
   "custom-diegoeis-simple@@eis-sidebar-dark": false,
   "serenity-theme@@h-font-s": "var(--font-text)",
   "serenity-theme@@colorful-headings-s": true,
-  "custom-diegoeis-simple@@eis-font-type": "eis-font-iawriter-quattro"
+  "custom-diegoeis-simple@@eis-font-type": "eis-font-iawriter-quattro",
+  "typomagical-title@@text-scale": "none",
+  "typomagical-text@@body-ligatures": false,
+  "typomagical-text@@font-default": "Spectral",
+  "typomagical-text@@ordered-lists": "circled-ol"
 }
