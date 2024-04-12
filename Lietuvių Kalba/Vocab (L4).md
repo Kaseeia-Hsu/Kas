@@ -147,3 +147,6 @@ pietūs, lunch __(pietauti)__
 vakarienė, dinner __(vakarienauti)__
 pavakariai, snack before dinner
 priešpiečiai, snack before afternoon
+
+## Adjectives
+skanus, -i
