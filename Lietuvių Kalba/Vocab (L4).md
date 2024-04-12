@@ -156,4 +156,7 @@ kartus/-i, bitter
 sūrus/-i, salty
 vaisinis/-ė, fruity
 
-### žalias
+### Colours
+žalias/-ia, green
+juodas/-a, black
+rūkytas/-a, smoked
