@@ -4,6 +4,7 @@ iškart, right away
 užtenka, enough
 [[Abiem (For Both)]], for both
 [[Norėčiau (Would Like)]], would like
+iš viso, in total
 ## Verbs
 
 (su)valgyti/valgo, eat
@@ -25,6 +26,9 @@ kainuoti/kainuoja, cost
 skubėti/skuba, rush
 (pa)duoti/duoda, give
 imti/ima, take
+nupirkti/nuperka, but
+nueiti/nueina, go away
+nutikti/nutinka, happen
 
 (iš)gerti/geria, drink
 (pa)ragauti/ragauja, taste
@@ -38,6 +42,7 @@ imti/ima, take
 (į)dėti/deda, put
 (su)maišyti/maišo, mix
 (su)pjaustyti/pjausto, cut
+[[Atrodyti, Atrodo (It Seens...)]]
 
 mėgti/mėgsta, like
 norėti/nori (ko?), want
@@ -191,6 +196,7 @@ rūkytas/-a, smoked
 keptas/-a, roast
 alkanas/-a, hungry
 sveikas/-a, healthy
+
 ### Colours
 žalias/-ia, green
 juodas/-a, black
