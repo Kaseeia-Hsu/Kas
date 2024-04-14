@@ -16,4 +16,4 @@ Connect the idea with [[Definite Quantities]], we can see amount words become ac
 - Imk pusę stiklinės (glass) pieno.
 - Prašom keletą bananų.
 
-Kilogramas/gramas/mili
+Kilogramas/gramas/mililitras/litras
