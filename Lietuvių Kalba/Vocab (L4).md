@@ -22,6 +22,7 @@ užsisakyti/užsisako, order
 aptarnauti/aptarnauja, serve
 kainuoti/kainuoja, cost
 skubėti/skuba, rush
+(pa)duoti/duoda, give
 
 (iš)gerti/geria, drink
 (pa)ragauti/ragauja, taste
@@ -181,6 +182,8 @@ rūgštus/-i, sour
 kartus/-i, bitter
 sūrus/-i, salty
 vaisinis/-ė, fruity
+didelis/-ė, big
+mažas/-a, small
 rūkytas/-a, smoked
 keptas/-a, roast
 ### Colours
