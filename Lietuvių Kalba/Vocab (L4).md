@@ -2,7 +2,8 @@
 
 iškart, right away
 užtenka, enough
-abiem, for both
+[[Abiem (For Both)]], for both
+[[Norėčiau (Would Like)]], would like
 ## Verbs
 
 (su)valgyti/valgo, eat
@@ -23,6 +24,7 @@ aptarnauti/aptarnauja, serve
 kainuoti/kainuoja, cost
 skubėti/skuba, rush
 (pa)duoti/duoda, give
+imti/ima, take
 
 (iš)gerti/geria, drink
 (pa)ragauti/ragauja, taste
@@ -181,14 +183,20 @@ saldus/-i, sweet
 rūgštus/-i, sour
 kartus/-i, bitter
 sūrus/-i, salty
+puikus/-i, brilliant, good
 vaisinis/-ė, fruity
 didelis/-ė, big
 mažas/-a, small
 rūkytas/-a, smoked
 keptas/-a, roast
+alkanas/-a, hungry
+sveikas/-a, healthy
 ### Colours
 žalias/-ia, green
 juodas/-a, black
 pilkas/-a, white
 raudonas/-a, red
 geltonas/-a, yellow
+
+## Adverbs
+baisiai, terribly
