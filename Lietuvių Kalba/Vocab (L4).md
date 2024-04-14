@@ -5,6 +5,10 @@ užtenka, enough
 [[Abiem (For Both)]], for both
 [[Norėčiau (Would Like)]], would like
 iš viso, in total
+vaikystė, childhood
+- vaikystės (gen. as adj.) draugės (-ė + pl.)
+ką nors skanaus, something tasty/good
+- kas/ką/ko nors, someone/something
 ## Verbs
 
 (su)valgyti/valgo, eat
@@ -20,6 +24,7 @@ klausyti/klauso, listen
 išsirinkti/išsirenka, choose
 užsisakyti/užsisako, order
 - užsisakyti staliuką (-as) / patiekalą (-as)
+(pa)barstyti/pabarsto, sprinkle
 
 aptarnauti/aptarnauja, serve
 kainuoti/kainuoja, cost
@@ -29,6 +34,8 @@ imti/ima, take
 nupirkti/nuperka, but
 nueiti/nueina, go away
 nutikti/nutinka, happen
+reikėti/reikia, need
+(pa)kviesti/kviečia, invite
 
 (iš)gerti/geria, drink
 (pa)ragauti/ragauja, taste
@@ -42,7 +49,7 @@ nutikti/nutinka, happen
 (į)dėti/deda, put
 (su)maišyti/maišo, mix
 (su)pjaustyti/pjausto, cut
-[[Atrodyti, Atrodo (It Seens...)]]
+[[Atrodyti, Atrodo (It Seems...)]]
 
 mėgti/mėgsta, like
 norėti/nori (ko?), want
