@@ -97,5 +97,16 @@
   "typomagical-text@@font-default": "Spectral",
   "typomagical-text@@ordered-lists": "circled-ol",
   "sanctum@@light-mode-contrast-mode": "sanctum-white",
-  "sanctum@@dark-mode-contrast-mode": "sanctum-contrast-dark"
+  "sanctum@@dark-mode-contrast-mode": "sanctum-contrast-dark",
+  "ulu-theme-settings@@ulu-subtheme-selection": "ulu-origami",
+  "ulu-theme-settings@@ulu-color-accent": "ulu-orange",
+  "ulu-theme-settings@@ulu-theme-light": "ulu-obplus-lt",
+  "ulu-theme-settings@@ulu-cards-border": true,
+  "ulu-theme-settings@@ulu-cards-shadow": false,
+  "ulu-theme-settings@@ulu-radius": "0",
+  "ulu-theme-settings@@ulu-border": "ulu-noborder",
+  "ulu-theme-settings@@ulu-grad": false,
+  "ulu-theme-settings@@ulu-notitle": false,
+  "ulu-theme-settings@@ulu-bar": true,
+  "ulu-theme-settings@@ulu-font-general": "TerminusTTF"
 }
