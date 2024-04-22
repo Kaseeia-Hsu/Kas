@@ -71,7 +71,7 @@
   "o-theme-settings@@ul-left-collapse-btn-border": false,
   "o-theme-settings@@ul-left-collapse-btn-disable": false,
   "o-theme-settings@@ul-tag-border": false,
-  "serenity-theme@@font-bundle-select": "austere-font",
+  "serenity-theme@@font-bundle-select": "ia-font",
   "serenity-theme@@custom-color-scheme-dark": false,
   "o-theme-settings@@o-theme-dark": "o-con-d",
   "serenity-theme@@custom-theme-sat-d": 0,
@@ -87,7 +87,7 @@
   "mado-11@@theme-color": "theme-grayscale",
   "Appearance-dark@@card-layout-open-dark": true,
   "Appearance-dark@@theme-dark-style-select": "theme-dark-background-default",
-  "serenity-theme@@fonts-source": "font-select",
+  "serenity-theme@@fonts-source": "font-bundle",
   "custom-diegoeis-simple@@eis-sidebar-dark": false,
   "serenity-theme@@h-font-s": "var(--font-text)",
   "serenity-theme@@colorful-headings-s": true,
@@ -114,5 +114,6 @@
   "encore-settings@@encore-translucency": false,
   "serenity-theme@@font-default-select": "Courier Prime",
   "serenity-theme@@font-secondary-select": "Courier Prime",
-  "serenity-theme@@font-monospace-select": "Courier Prime"
+  "serenity-theme@@font-monospace-select": "Courier Prime",
+  "light-and-bright-theme@@dark-theme-settings": "dark-theme-alternate"
 }
