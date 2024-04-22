@@ -1,9 +1,9 @@
 {
   "accentColor": "",
-  "cssTheme": "Light & Bright",
+  "cssTheme": "Simple",
   "theme": "obsidian",
   "interfaceFontFamily": "",
-  "translucency": false,
+  "translucency": true,
   "enabledCssSnippets": [
     "graph"
   ]
