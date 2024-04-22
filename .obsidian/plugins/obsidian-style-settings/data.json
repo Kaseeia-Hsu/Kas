@@ -115,5 +115,6 @@
   "serenity-theme@@font-default-select": "Courier Prime",
   "serenity-theme@@font-secondary-select": "Courier Prime",
   "serenity-theme@@font-monospace-select": "Courier Prime",
-  "light-and-bright-theme@@dark-theme-settings": "dark-theme-alternate"
+  "light-and-bright-theme@@dark-theme-settings": "dark-theme-alternate",
+  "obsidian-typewriter@@shrink-formatting": true
 }

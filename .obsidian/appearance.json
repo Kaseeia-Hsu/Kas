@@ -1,9 +1,9 @@
 {
-  "accentColor": "",
-  "cssTheme": "Simple",
-  "theme": "obsidian",
+  "accentColor": "#636363",
+  "cssTheme": "Serenity",
+  "theme": "moonstone",
   "interfaceFontFamily": "",
-  "translucency": true,
+  "translucency": false,
   "enabledCssSnippets": [
     "graph"
   ]

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lietuvių Kalba/Possessive Pronouns & Genitive.md",
+                "file": "Lietuvių Kalba/Quantity--Amount Words.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lietuvių Kalba/Possessive Pronouns & Genitive.md"
+                "file": "Lietuvių Kalba/Quantity--Amount Words.md"
               }
             }
           }
@@ -100,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "410a9bbc53918d06",
@@ -116,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lietuvių Kalba/Possessive Pronouns & Genitive.md",
+                "file": "Lietuvių Kalba/Quantity--Amount Words.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lietuvių Kalba/Possessive Pronouns & Genitive.md",
+                "file": "Lietuvių Kalba/Quantity--Amount Words.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,6 +204,10 @@
   },
   "active": "41b56664b73fd805",
   "lastOpenFiles": [
+    "Lietuvių Kalba/All Verbs' Conjugation.md",
+    "Écrits/20240104. (I) I Endure Life..md",
+    "Lietuvių Kalba/Possessive Pronouns & Genitive.md",
+    "Lietuvių Kalba/Vocab (L2).md",
     "Lietuvių Kalba/To Wish.md",
     "Lietuvių Kalba/Vocab (L4).md",
     "Lietuvių Kalba/Vocab (L3).md",
@@ -213,19 +218,15 @@
     "Lietuvių Kalba/Genitive Names.md",
     "Lietuvių Kalba/Atrodyti, Atrodo (It Seems...).md",
     "Lietuvių Kalba/Abiem (For Both).md",
-    "Lietuvių Kalba/All Verbs' Conjugation.md",
     "日本語/日本語.md",
     "Lietuvių Kalba/Adjectives' Genders.md",
     "Lietuvių Kalba/Location.md",
     "Lietuvių Kalba/Locative.md",
     "Lietuvių Kalba/Kiek...? (How many?).md",
-    "Écrits/20240104. (I) I Endure Life..md",
     "Lietuvių Kalba/Accusative.md",
     "Écrits/20240104. (II) ...O L'amnistia?.md",
     "Écrits/20240113. Literatures..md",
-    "Lietuvių Kalba/Possessive Pronouns & Genitive.md",
     "Lietuvių Kalba/Quantity--Amount Words.md",
-    "Lietuvių Kalba/Vocab (L2).md",
     "Lietuvių Kalba/Instrumental.md",
     "Lietuvių Kalba/Cardinal Numbers 1–9.md",
     "Lietuvių Kalba/Genitive.md",
