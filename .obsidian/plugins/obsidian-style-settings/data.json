@@ -95,5 +95,7 @@
   "typomagical-title@@text-scale": "none",
   "typomagical-text@@body-ligatures": false,
   "typomagical-text@@font-default": "Spectral",
-  "typomagical-text@@ordered-lists": "circled-ol"
+  "typomagical-text@@ordered-lists": "circled-ol",
+  "sanctum@@light-mode-contrast-mode": "sanctum-white",
+  "sanctum@@dark-mode-contrast-mode": "sanctum-contrast-dark"
 }
