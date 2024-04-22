@@ -23,21 +23,21 @@
 
 ## More Numbers
 
-|  |  |
-| ---- | ---- |
-| 0 | nulis |
-| 10 | dešimt |
-| 11 | vienuolika |
-| 12 | dvylika |
-| 13 | trylika |
-| 14 | keturiolika |
-| 15 | penkiolika |
-| 16 | šešiolika |
-| 17 | septyniolika |
-| 18 | aštuoniolika |
-| 19 | devyniolika |
-| 20 | dvidešimt |
-| 21 | dvidešimt vienas/viena |
+|     |                         |
+| --- | ----------------------- |
+| 0   | nulis                   |
+| 10  | dešimt                 |
+| 11  | vienuolika              |
+| 12  | dvylika                 |
+| 13  | trylika                 |
+| 14  | keturiolika             |
+| 15  | penkiolika              |
+| 16  | šešiolika             |
+| 17  | septyniolika            |
+| 18  | aštuoniolika           |
+| 19  | devyniolika             |
+| 20  | dvidešimt              |
+| 21  | dvidešimt vienas/viena |
 etc... and so on.
 
 |  |  |
