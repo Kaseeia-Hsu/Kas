@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Écrits/Final Paper.md",
+                "file": "未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,6 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,6 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +192,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "未命名.md"
+              }
             }
           }
         ]
@@ -209,8 +213,9 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "7ed1f30b0c7cbffd",
+  "active": "9f3e1f585b636bc3",
   "lastOpenFiles": [
+    "Pasted image 20240210220920.png",
     "Écrits/Final Paper.md",
     "Écrits/20240104. (I) I Endure Life..md",
     "Écrits/20240104. (II) ...O L'amnistia?.md",
@@ -233,11 +238,9 @@
     "Lietuvių Kalba/-iena (Meats).md",
     "Lietuvių Kalba/Vocab (L2).md",
     "Lietuvių Kalba/To Wish.md",
-    "Pasted image 20240210220920.png",
     "Lietuvių Kalba/Occupations.md",
     "Lietuvių Kalba/Nėra (is Not Here).md",
     "Lietuvių Kalba/Mylėti (to love).md",
-    "Lietuvių Kalba/Imperative.md",
     "atrodyti",
     "未命名 1.canvas",
     "未命名.canvas",
