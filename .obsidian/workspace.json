@@ -126,7 +126,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Écrits/Final Paper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +150,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Écrits/Final Paper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,9 +190,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Écrits/Final Paper.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -213,13 +209,13 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "9f3e1f585b636bc3",
+  "active": "7ed1f30b0c7cbffd",
   "lastOpenFiles": [
+    "Écrits/Final Paper.md",
     "Écrits/20240104. (I) I Endure Life..md",
     "Écrits/20240104. (II) ...O L'amnistia?.md",
     "Écrits/20240113. Literatures..md",
     "未命名.md",
-    "Écrits/Final Paper.md",
     "Lietuvių Kalba/Locative.md",
     "Lietuvių Kalba/Vocative.md",
     "Lietuvių Kalba/Mėgstu (I Like Doing...).md",
