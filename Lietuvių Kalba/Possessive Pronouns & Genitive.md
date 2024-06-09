@@ -2,11 +2,11 @@
 
 ## Possessive Pronouns
 
-|  |  |  |  |
-| ---- | ---- | ---- | ---- |
-| Aš | Mano | Mes | Mūsų |
-| Tu | Tavo | Jūs | Jūsų |
-| Jis/Ji | Jo/Jos | Jie/Jos | Jų |
+| Nom    | Gen    | Dat     | Nom     | Gen    | Dat        |
+| ------ | ------ | ------- | ------- | ------ | ---------- |
+| Aš    | Mano   | Man     | Mes     | Mūsų | Mums       |
+| Tu     | Tavo   | Tau     | Jūs    | Jūsų | Jums       |
+| Jis/Ji | Jo/Jos | Jam/Jai | Jie/Jos | Jų    | Jiems/Joms |
 
 ## Genitive + O.
 
