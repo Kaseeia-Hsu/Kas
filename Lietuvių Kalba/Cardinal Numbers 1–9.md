@@ -40,18 +40,18 @@
 | 21  | dvidešimt vienas/viena |
 etc... and so on.
 
-|  |  |
-| ---- | ---- |
-| 30 | trisdešimt |
-| 40 | keturiasdešimt |
-| 50 | penkiasdešimt |
-| 60 | šešiasdešimt |
-| 70 | septyniasdešimt |
-| 80 | aštuoniasdešimt |
-| 90 | devyniasdešimt |
-| 100 | šimtas |
-| 1000 | tūkstantis |
-| 1000000 | milijonas |
+|         |                   |
+| ------- | ----------------- |
+| 30      | trisdešimt       |
+| 40      | keturiasdešimt   |
+| 50      | penkiasdešimt    |
+| 60      | šešiasdešimt   |
+| 70      | septyniasdešimt  |
+| 80      | aštuoniasdešimt |
+| 90      | devyniasdešimt   |
+| 100     | šimtas           |
+| 1000    | tūkstantis       |
+| 1000000 | milijonas         |
 
 So, we'll have something like:
 - dešimt obuolių
