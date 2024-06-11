@@ -2,12 +2,12 @@
 
 ## Nationality
 
-| Nation | Language (+iškai) | People |
-| ---- | ---- | ---- |
-| Amerika | angliškai | Amerikietis/-ė |
-| Lietuva | lietuviškai | Lietuvis/-ė |
-| Rusija | rusiškai | Rusas/-ė |
-| Vokietija | vokietiškai | Vokietis/-ė |
+| Nation    | Language (+iškai) | People          |
+| --------- | ------------------ | --------------- |
+| Amerika   | angliškai         | Amerikietis/-ė |
+| Lietuva   | lietuviškai       | Lietuvis/-ė    |
+| Rusija    | rusiškai          | Rusas/-ė       |
+| Vokietija | vokietiškai       | Vokietis/-ė    |
 
 ## How to form them?
 
