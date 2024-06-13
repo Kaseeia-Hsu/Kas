@@ -1,4 +1,4 @@
-#Lithuanian #declension 
+	#Lithuanian #declension 
 
 ## Nominative (Kas?)
 | Masculine | -as | -is | -ys | -us | -ius | -uo |
