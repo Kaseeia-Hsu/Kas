@@ -1,0 +1,1 @@
+"ฉันชอบคุณ" in thai is mean " I like u"
