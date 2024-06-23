@@ -71,14 +71,11 @@
             "id": "34fc71de0165f131",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "日本語/未命名.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "日本語/日本語.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -165,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日本語/未命名.canvas",
+                "file": "日本語/日本語.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日本語/未命名.canvas",
+                "file": "日本語/日本語.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日本語/未命名.canvas"
+                "file": "日本語/日本語.md"
               }
             }
           }
@@ -254,8 +251,8 @@
   },
   "active": "34fc71de0165f131",
   "lastOpenFiles": [
-    "Lietuvių Kalba/Vocab (L4).md",
     "日本語/未命名.canvas",
+    "Lietuvių Kalba/Vocab (L4).md",
     "日本語/未命名.md",
     "Thai Language.md",
     "日本語/日本語.md",
