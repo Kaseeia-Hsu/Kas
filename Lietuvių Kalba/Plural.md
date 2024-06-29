@@ -1,11 +1,11 @@
-	#Lithuanian #declension 
+#Lithuanian #declension 
 
 ## Nominative (Kas?)
-| Masculine | -as | -is | -ys | -us | -ius | -uo |
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-|  | -ai | -iai | -iai | -ūs | -iai | -enys |
-| __Feminine__ | __-a__ | __-is__ | __-ė__ | __-uo__ |  |  |
-|  | -os | -ys | -ės | -erys |  |  |
+| Masculine    | -as    | -is     | -ys     | -us     | -ius | -uo   |
+| ------------ | ------ | ------- | ------- | ------- | ---- | ----- |
+|              | -ai    | -iai    | -iai    | -ūs    | -iai | -enys |
+| __Feminine__ | __-a__ | __-is__ | __-ė__ | __-uo__ |      |       |
+|              | -os    | -ys     | -ės    | -erys   |      |       |
 
 ## Genitive (Ko?)
 
