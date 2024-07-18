@@ -1681,8 +1681,11 @@ body {
 }
 
 strong,
-.cm-strong {
+.cm-strong,
+.cm-s-obsidian span.cm-formatting-strong,
+.cm-s-obsidian span.cm-strong {
   --bold-color: rgb(var(--ctp-bold, var(--ctp-sapphire)));
+  color: rgb(var(--ctp-bold, var(--ctp-sapphire)));
 }
 
 em,
@@ -1693,6 +1696,10 @@ em,
 del,
 .cm-strikethrough {
   color: rgb(var(--ctp-strikethrough, var(--ctp-maroon)));
+}
+
+.cm-s-obsidian .cm-link.cm-strikethrough {
+  text-decoration: line-through;
 }
 
 .markdown-rendered blockquote,
@@ -2139,6 +2146,10 @@ body {
 .nav-folder.is-collapsed .nav-folder-title .nav-folder-title-content::before:hover,
 .nav-folder .nav-folder-title .nav-folder-title-content::before:hover {
   color: var(--text-on-accent);
+}
+
+.tree-item-self.is-being-renamed:focus-within {
+  color: currentcolor;
 }
 
 /*
