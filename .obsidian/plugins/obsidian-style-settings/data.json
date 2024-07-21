@@ -121,5 +121,6 @@
   "jotter@@border_style": "border-invisible",
   "jotter@@color-scheme": "ct-jotter",
   "jotter@@active-line-highlight": false,
-  "ulu-theme-settings@@ulu-theme-dark": "ulu-con-d"
+  "ulu-theme-settings@@ulu-theme-dark": "ulu-con-d",
+  "retronotes-settings@@retro-lm": "retro-lm-sunny-memos"
 }
