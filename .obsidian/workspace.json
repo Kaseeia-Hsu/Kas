@@ -150,7 +150,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thai Language.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +174,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Thai Language.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Thai Language.md"
+                "file": "未命名.md"
               }
             }
           }
@@ -238,8 +236,10 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "34fc71de0165f131",
+  "active": "f58af818dfbd63a9",
   "lastOpenFiles": [
+    "Thai Language.md",
+    "未命名.md",
     "Lietuvių Kalba/Demonstrative Pronouns.md",
     "Lietuvių Kalba/All Verbs' Conjugation.md",
     "Lietuvių Kalba/Atrodyti, Atrodo (It Seems...).md",
@@ -254,7 +254,6 @@
     "日本語/日本語.md",
     "日本語/未命名.md",
     "Lietuvių Kalba/Directions.md",
-    "Thai Language.md",
     "Lietuvių Kalba/Plural.md",
     "Lietuvių Kalba/Norėčiau (Would Like).md",
     "Pasted image 20240210220920.png",
@@ -264,7 +263,6 @@
     "Pasted image 20240713231744.png",
     "Pasted image 20240713231700.png",
     "未命名 1.md",
-    "未命名.md",
     "日本語/Lesson 1　李さん台湾人です.md",
     "Lietuvių Kalba/Nationality.md",
     "Lietuvių Kalba/Quantity--Amount Words.md",
